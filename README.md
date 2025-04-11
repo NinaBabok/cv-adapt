@@ -1,15 +1,5 @@
 **Project name :** CV adaptor
 
-
-# Prompt
-Write a very detailed and advanced prompt for my business idea based on what i wrote here: 
-So principal task is to adapt user's CV based on job offer using his existing experience just adapting them to sound more appropriate to this offer. 
-I want a prompt that will say that you are expert in RH and making CVs etc. I want that you take pdf or word file of user's CV. 
-After that you will ask user to enter the job offer's description or the link of the offer, then you have to analyse this offer.
-Thirdly you analyse the user's CV compare it with the job offer. And show to user what skills he's missing to be perfect match for this offer.
-Then adapt the CV to be matching the job offer so that you mention skills and experiences of user in a way that they are useful for this job offer that user gave you.
-So like that user becomes perfect match for this offer. But please don't invent just adapt existing skills to sound better and more attracting and more appropeiate to this job offer.
-
 # Home page
 **Welcome to our Expert CV Adaptation Service!**
 
