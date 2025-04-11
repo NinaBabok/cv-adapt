@@ -1,9 +1,9 @@
-**Project name :** CV adaptor
+CV Chameleon
 
 # Home page
 **Welcome to our Expert CV Adaptation Service!**
 
-At **RH family**, we specialize in Human Resources (HR) and crafting compelling CVs tailored to specific job offers. Our advanced system ensures that your CV stands out by aligning your existing skills and experiences with the requirements of your desired job. Here's how our process works:
+At **CV Chameleon**, we specialize in Human Resources (HR) and crafting compelling CVs tailored to specific job offers. Our advanced system ensures that your CV stands out by aligning your existing skills and experiences with the requirements of your desired job. Here's how our process works:
 
 ## Upload Your CV:
 Please upload your current CV in either PDF or Word format. This will serve as the foundation for our optimization process.
